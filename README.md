@@ -4,7 +4,7 @@
 | STT | Họ và tên | Vai trò dự kiến | Trạng thái | Ngày cập nhật | Ghi chú |
 | :---: | :--- | :--- | :---: | :---: | :--- |
 | 1 | Lê Hiền Anh | Member | 🟢 Đang tham gia | 16/08/2026 | |
-| 2 | Nguyễn Minh Lượng | Member | 🟢 Đang tham gia | 16/08/2026 | |
+| 2 | Nguyễn Minh Lương | Member | 🟢 Đang tham gia | 16/08/2026 | |
 | 3 | Lương Quỳnh Anh | Member | 🟢 Đang tham gia | 16/08/2026 | |
 | 4 | Nguyễn Minh Hoàng | Member | 🟢 Đang tham gia | 16/08/2026 | |
 | 5 | Chu Ngọc Minh Khôi | Member | 🟢 Đang tham gia | 16/08/2026 | |
